@@ -1,0 +1,16 @@
+C:\Users\kkhad\source\repos\capkel\capkel\bin\Debug\capkel.exe.config
+C:\Users\kkhad\source\repos\capkel\capkel\bin\Debug\capkel.exe
+C:\Users\kkhad\source\repos\capkel\capkel\bin\Debug\capkel.pdb
+C:\Users\kkhad\source\repos\capkel\capkel\obj\Debug\capkel.csproj.AssemblyReference.cache
+C:\Users\kkhad\source\repos\capkel\capkel\obj\Debug\capkel.Form1.resources
+C:\Users\kkhad\source\repos\capkel\capkel\obj\Debug\capkel.Form2.resources
+C:\Users\kkhad\source\repos\capkel\capkel\obj\Debug\capkel.Properties.Resources.resources
+C:\Users\kkhad\source\repos\capkel\capkel\obj\Debug\capkel.csproj.GenerateResource.cache
+C:\Users\kkhad\source\repos\capkel\capkel\obj\Debug\capkel.csproj.CoreCompileInputs.cache
+C:\Users\kkhad\source\repos\capkel\capkel\obj\Debug\capkel.exe
+C:\Users\kkhad\source\repos\capkel\capkel\obj\Debug\capkel.pdb
+C:\Users\kkhad\source\repos\capkel\capkel\obj\Debug\capkel.Form3.resources
+C:\Users\kkhad\source\repos\capkel\capkel\obj\Debug\capkel.MasterTeacher.resources
+C:\Users\kkhad\source\repos\capkel\capkel\obj\Debug\capkel.MasterStudent.resources
+C:\Users\kkhad\source\repos\capkel\capkel\obj\Debug\capkel.MasterSubject.resources
+C:\Users\kkhad\source\repos\capkel\capkel\obj\Debug\capkel.SubmitScore.resources
